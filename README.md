@@ -10,7 +10,7 @@ case 1_1.csv   Rickey Henderson’s Career Batting Statistics
  
 -------------------------------------------------------
 CHAPTER 2  Exploring a Single Batch of Baseball Data 
- -------------------------------------------------------
+-------------------------------------------------------
 
 case_2_1.csv  2014 Team Batting Statistics
 
