@@ -13,9 +13,13 @@ CHAPTER 2  Exploring a Single Batch of Baseball Data
  -------------------------------------------------------
 
 case_2_1.csv  2014 Team Batting Statistics
+
 case_2_2.csv  Derek Jeter’s Career Batting Statistics
+
 case_2_3.csv  Randy Johnson’s Career Pitching Statistics
+
 case_2_4.csv 2014 Home Attendances
+
 case_2_5.csv  Sacrifice bunt data (2013 season)
            
 EXERCISE DATASETS
