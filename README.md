@@ -87,3 +87,28 @@ exer_3_8:  Slugging percentage and Batting average for shortstops and third base
 exer_3_9:  Batting statistics for 1899 and 1999 players with at least 400 ab
 
 exer_3_10:  Home runs hit by all teams in 2014
+
+-------------------------------------------------------
+CHAPTER 4  Relationships between Measurement Variables 
+-------------------------------------------------------
+
+case_4_1:  2014 Team Batting Statistics
+
+case_4_2:  Home run and triple rates for some historical teams
+
+case_4_3:  2014 American League Team Batting Statistics
+
+case_4_4:  2014 Team Batting Statistics
+            
+case_4_5:  Wins, losses, runs scored, and runs allowed for 2014 teams
+ 
+case_4_6:  2013 and 2014 slugging percentages for 20 randomly selected players.
+ 
+EXERCISES   
+            
+exer_4_0:  On-base and slugging percentages for Rickey Henderson for his first 23 seasons of his career.
+            
+exer_4_1:  Batting average and number of runs per game for all of the National League teams in the 2014 season
+            
+exer_4_3:  Pitching statistics for the 2014 National League teams
+
