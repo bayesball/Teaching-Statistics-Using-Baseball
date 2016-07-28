@@ -56,123 +56,123 @@ exer_2_33.csv  Types of pitchers thrown by Zack Greinke in 2015 season
 CHAPTER 3  Comparing Batches and Standardization 
 -------------------------------------------------------
  
-case_3_1:  Pujols and Rameriz Career Batting Statistics
+case_3_1.csv  Pujols and Rameriz Career Batting Statistics
  
-case_3_2:  Roberts and Ford Career Pitching Statistics
+case_3_2.csv  Roberts and Ford Career Pitching Statistics
  
-case_3_3:  Team Home run numbers for 1927, 1961, 1998, 2001 seasons
+case_3_3.csv  Team Home run numbers for 1927, 1961, 1998, 2001 seasons
  
-case_3_4:  Slugging percentages for 2014 Players With at Least 400 AB
+case_3_4.csv  Slugging percentages for 2014 Players With at Least 400 AB
  
-case 3_5:  Batting statistics for 1941 Players with at Least 400 AB
+case 3_5.csv  Batting statistics for 1941 Players with at Least 400 AB
             
-case 3_6:  Batting statistics for 1977 Players with at Least 400 AB
+case 3_6.csv  Batting statistics for 1977 Players with at Least 400 AB
             
-case 3_7:  Batting statistics for 1980 Players with at Least 400 AB
+case 3_7.csv  Batting statistics for 1980 Players with at Least 400 AB
             
-case 3_8:  Batting statistics for 1994 Players with at Least 400 AB
+case 3_8.csv  Batting statistics for 1994 Players with at Least 400 AB
  
 EXERCISE DATASETS
             
-exer_3_0.  Batting statistics for Rickey Henderson and Tim Raines
+exer_3_0.csv  Batting statistics for Rickey Henderson and Tim Raines
             
-exer_3_1:  Batting statistics for 1897 and 1997 players with at least 400 ab
+exer_3_1.csv  Batting statistics for 1897 and 1997 players with at least 400 ab
             
-exer_3_6:  Pujols and Rameriz Career Batting Statistics
+exer_3_6.csv  Pujols and Rameriz Career Batting Statistics
             
-exer_3_7:  Maddux and Glavine Career Pitching Statistics
+exer_3_7.csv  Maddux and Glavine Career Pitching Statistics
             
-exer_3_8:  Slugging percentage and Batting average for shortstops and third basemen in 1999
+exer_3_8.csv  Slugging percentage and Batting average for shortstops and third basemen in 1999
             
-exer_3_9:  Batting statistics for 1899 and 1999 players with at least 400 ab
+exer_3_9.csv  Batting statistics for 1899 and 1999 players with at least 400 ab
             
-exer_3_10:  Home runs hit by all teams in 2014
+exer_3_10.csv  Home runs hit by all teams in 2014
  
 -------------------------------------------------------
 CHAPTER 4  Relationships between Measurement Variables 
 -------------------------------------------------------
             
-case_4_1:  2014 Team Batting Statistics
+case_4_1.csv  2014 Team Batting Statistics
             
-case_4_2:  Home run and triple rates for some historical teams
+case_4_2.csv  Home run and triple rates for some historical teams
              
-case_4_3:  2014 American League Team Batting Statistics
+case_4_3.csv  2014 American League Team Batting Statistics
      
-case_4_4:  2014 Team Batting Statistics
+case_4_4.csv  2014 Team Batting Statistics
             
-case_4_5:  Wins, losses, runs scored, and runs allowed for 2014 teams
+case_4_5.csv  Wins, losses, runs scored, and runs allowed for 2014 teams
  
-case_4_6:  2013 and 2014 slugging percentages for 20 randomly selected players.
+case_4_6.csv  2013 and 2014 slugging percentages for 20 randomly selected players.
  
 EXERCISE DATASETS  
             
-exer_4_0:  On-base and slugging percentages for Rickey Henderson for his first 23 seasons of his career.
+exer_4_0.csv  On-base and slugging percentages for Rickey Henderson for his first 23 seasons of his career.
             
-exer_4_1:  Batting average and number of runs per game for all of the National League teams in the 2014 season
+exer_4_1.csv  Batting average and number of runs per game for all of the National League teams in the 2014 season
             
-exer_4_3:  Pitching statistics for the 2014 National League teams
+exer_4_3.csv  Pitching statistics for the 2014 National League teams
 
 -------------------------------------------------------
 CHAPTER 5  Introduction to Probability Using Tabletop Games 
 -------------------------------------------------------
  
-case_5_1:  Chris Davis’ home run log for the 2013 season  
+case_5_1.csv  Chris Davis’ home run log for the 2013 season  
 
 EXERCISE DATASETS     
              
-exer_5_4:  Pitching log for Madison Bumgarner in 2014 season
+exer_5_4.csv  Pitching log for Madison Bumgarner in 2014 season
             
-exer_5_8:  Number of runners and runs scored for 1000 games of Big League Baseball
+exer_5_8.csv  Number of runners and runs scored for 1000 games of Big League Baseball
             
-exer_5_9:  Number of runners and runs scored for 10 games of the 1999 Phillies.
+exer_5_9.csv  Number of runners and runs scored for 10 games of the 1999 Phillies.
             
-exer 5_19:  Career batting statistics for 18 great players.
+exer 5_19.csv  Career batting statistics for 18 great players.
 
 -------------------------------------------------------
 CHAPTER 6  Probability Distributions and Baseball 
 -------------------------------------------------------
             
-case_6_1:  Melky Cabrera’s batting log for the 2014 season
+case_6_1.csv  Melky Cabrera’s batting log for the 2014 season
             
 ------------------------------------------------------- 
 CHAPTER 7  Introduction to Statistical Inference 
 -------------------------------------------------------
             
-case_7_1:  Career batting statistics for Wade Boggs and Tony Gwynn
+case_7_1.csv  Career batting statistics for Wade Boggs and Tony Gwynn
  
 EXERCISE DATSETS
             
-exer_7_1:  Batting averages for twelve players for years 2013 and 2014
+exer_7_1.csv  Batting averages for twelve players for years 2013 and 2014
 
 ------------------------------------------------------- 
 CHAPTER 8  Topics in Statistical Inference 
 ------------------------------------------------------- 
             
-case_8_1:  Situational hitting statistics for Mike Trout in 2014 season.
+case_8_1.csv  Situational hitting statistics for Mike Trout in 2014 season.
             
-case_8_2:  Home and away batting averages for 20 players in 2013 and 2014 seasons.
+case_8_2.csv  Home and away batting averages for 20 players in 2013 and 2014 seasons.
             
-case_8_3:  Batting statistics for all 2014 ML players
+case_8_3.csv  Batting statistics for all 2014 ML players
             
-case_8_4:  Michael Brantley’s batting log for 2014 baseball season
+case_8_4.csv  Michael Brantley’s batting log for 2014 baseball season
   
 EXERCISE DATASETS
  
-exer_8_1:  Home and away batting statistics for 14 randomly selected players in 2013 season.
+exer_8_1.csv  Home and away batting statistics for 14 randomly selected players in 2013 season.
 
-exer_8_2:  Pre and Post All-Star Game batting statistics for 15 randomly selected players in 2013 season.
+exer_8_2.csv  Pre and Post All-Star Game batting statistics for 15 randomly selected players in 2013 season.
             
-exer_8_3:  Pitch count batting statistics for 15 randomly selected players in 2013 season.
+exer_8_3.csv  Pitch count batting statistics for 15 randomly selected players in 2013 season.
             
-exer_8_7:  Home and away batting averages for 20 players in 1998 and 1999 seasons.
+exer_8_7.csv  Home and away batting averages for 20 players in 1998 and 1999 seasons.
             
-exer_8_8:  Pitching AVG for batters of different hand and for different pitch counts.
+exer_8_8.csv  Pitching AVG for batters of different hand and for different pitch counts.
 
 ------------------------------------------------------- 
 CHAPTER 9  Modeling Baseball Using a Markov Chain 
 ------------------------------------------------------- 
  
-case_9_1:  Transition counts from play-by-play data in 1987 National League season
+case_9_1.csv  Transition counts from play-by-play data in 1987 National League season
             
-case_9_2:  Values of all transitions using play-by-play data in 1987 National League season
+case_9_2.csv  Values of all transitions using play-by-play data in 1987 National League season
  
