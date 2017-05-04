@@ -172,7 +172,6 @@ exer_8_8.csv  Pitching AVG for batters of different hand and for different pitch
 CHAPTER 9  Modeling Baseball Using a Markov Chain 
 ------------------------------------------------------- 
  
-case_9_1.csv  Transition counts from play-by-play data in 1987 National League season
+transition2014.csv  Transition counts from play-by-play data in 2014 season
             
-case_9_2.csv  Values of all transitions using play-by-play data in 1987 National League season
- 
+
